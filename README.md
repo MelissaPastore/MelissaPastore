@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Melissa Pastore and I'm a full stack software engineer based in New York City. 
+
 <!--
 **MelissaPastore/MelissaPastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
