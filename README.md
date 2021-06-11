@@ -4,6 +4,9 @@ My name is Melissa Pastore and I'm a full stack software engineer based in New Y
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=melissapastore&count_private=true&show_icons=true&hide=contribs)
 
+<a href="<https://www.linkedin.com/in/melissalpastore/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 <!--
 **MelissaPastore/MelissaPastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
